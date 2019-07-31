@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartWorkHoursServiceApplication {
+public class SmartWorkHoursApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartWorkHoursServiceApplication.class, args);
+		SpringApplication.run(SmartWorkHoursApplication.class, args);
 	}
 
 }
